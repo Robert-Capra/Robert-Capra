@@ -22,4 +22,4 @@
 
 <br/>
 
-<p align="center"><img src="https://github.com/Robert-Capra/Robert-Capra/blob/output/github-contribution-grid-snake.gif"></img></p>
+<p align="center"><svg src="https://github.com/Robert-Capra/Robert-Capra/blob/output/github-contribution-grid-snake.svg"></svg></p>
