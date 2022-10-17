@@ -20,5 +20,6 @@
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robert-capra&theme=dark" alt="robert-capra" /></p>
 
+<br/>
 
-![snake gif](https://github.com/Robert-Capra/Robert-Capra/blob/output/github-contribution-grid-snake.gif)
+<p align="center">![snake gif](https://github.com/Robert-Capra/Robert-Capra/blob/output/github-contribution-grid-snake.gif)</p>
