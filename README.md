@@ -5,11 +5,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robert-capra" alt="robert-capra" /></a> </p>
 
-<p align="center">- 🌱 I’m currently learning **react** </p>
+<p align="center">🌱 I’m currently learning <strong>react</strong> </p>
 
-<p align="center">- 📫 How to reach me **me@robertcapra.com** </p>
+<p align="center">📫 How to reach me <strong>me@robertcapra.com</strong> </p>
 
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
 
