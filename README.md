@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Robert</h1>
 <h3 align="center">Junior Software Developer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robert-capra&label=Profile%20views&color=7a7a7a&style=flat" alt="robert-capra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=robert-capra&label=Profile%20views&color=000000&style=plastic" alt="robert-capra" /> </p>
 
 
 
