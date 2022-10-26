@@ -5,7 +5,7 @@
 
 
 
-<p align="center">🌱 I’m currently learning <strong>react</strong> </p>
+<p align="center">🌱 I’m currently <strong>coding</strong> </p>
 
 <p align="center">📫 How to reach me <strong>me@robertcapra.com</strong> </p>
 
