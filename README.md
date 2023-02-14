@@ -7,9 +7,9 @@
 
 <p align="center">🌱 I’m currently <strong>coding</strong> </p>
 
-<p align="center">📫 How to reach me <strong>me@robertcapra.com</strong> </p>
+<p align="center">📫 How to reach me <strong>mail@robertcapra.it</strong> </p>
 
-<p align="center">🕸 Personal website <strong>www.robertcapra.com</strong> </p>
+<p align="center">🕸 Personal website <strong>www.robertcapra.it</strong> </p>
 
 <p align="center">
 </p>
