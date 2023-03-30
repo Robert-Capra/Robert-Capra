@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robert-capra&label=Profile%20views&color=000000&style=plastic" alt="robert-capra" /> </p>
 
 
-
 <p align="center">🌱 I’m currently <strong>coding</strong> </p>
 
 <p align="center">📫 How to reach me <strong>mail@robertcapra.it</strong> </p>
