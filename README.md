@@ -2,6 +2,7 @@
 
 <h3 align="center">R&D Full Stack Developer from Italy</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robert-capra&label=Profile%20views&color=000000&style=plastic" alt="robert-capra" /> </p>
 
 
